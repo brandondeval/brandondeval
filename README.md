@@ -1,6 +1,6 @@
 
 <div id="info" align="center">
-  <h3 class="prose dark:prose-dark mb-8 max-w-max">Hi there 👋</h3>
+  <h1 class="prose dark:prose-dark mb-8 max-w-max">Hi there 👋</h1>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/brandon-devaleriola-3199577b/">
