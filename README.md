@@ -1,11 +1,17 @@
 
 <div id="info" align="center">
   <h1 class="prose dark:prose-dark mb-8 max-w-max">Hi there 👋</h1>
-  <h2 class="prose dark:prose-dark mb-8 max-w-max"><a href=" https://brandon-dev-aleriola.github.io/">
-    Blog
-  </a></h2>
 </div>
-<div id="badges" align="center">
+
+<div id="blog" align="center">
+  <h2>
+
+  [Blog](https://brandon-dev-aleriola.github.io/)
+
+  </h2>
+</div>
+
+<div id="linkedin" align="center">
   <a href="https://www.linkedin.com/in/brandon-devaleriola-3199577b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
