@@ -17,7 +17,7 @@
   </a>
 </div>
 <div id="info" align="center">
-  <h3 class="prose dark:prose-dark mb-8 max-w-max">I'm a Software Developer primarily focused on Front-End Web Applications</h3>
+  <h3 class="prose dark:prose-dark mb-8 max-w-max">I'm a Software Developer primarily focused on Full Stack Web Applications</h3>
 </div>
 <div id="badges" align="center">
 <p>
