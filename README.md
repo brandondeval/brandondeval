@@ -1,21 +1,12 @@
 
-<div id="info" align="center">
-  <h1 class="prose dark:prose-dark mb-8 max-w-max">Hi there 👋</h1>
-</div>
-
 <div id="blog" align="center">
   <h2>
 
-  [Blog](https://brandon-dev-aleriola.github.io/)
+  [My tech blog](https://brandon-dev-aleriola.github.io/)
 
   </h2>
 </div>
 
-<div id="linkedin" align="center">
-  <a href="https://www.linkedin.com/in/brandon-devaleriola">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 <div id="info" align="center">
   <h3 class="prose dark:prose-dark mb-8 max-w-max">I'm a Software Developer primarily focused on Full Stack Web Applications</h3>
 </div>
