@@ -2,7 +2,7 @@
 <div id="blog" align="center">
   <h2>
 
-  [Dev(B)log](https://brandon-dev-aleriola.github.io/)
+  [Dev(B)log](https://brandondeval.github.io/)
 
   </h2>
 </div>
